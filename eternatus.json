@@ -1,0 +1,11 @@
+{
+	"name": "iivm",
+	"version": 1.0,
+	"command": {
+		"test": "sh scripts/test.sh",
+		"setup": "sh scripts/setup.sh",
+		"build": "sh scripts/build.sh",
+		"install": "sh scripts/install.sh"
+	},
+	"$schema": "http://json-schema.org/schema"
+}
