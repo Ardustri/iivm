@@ -2,6 +2,7 @@
 	"name": "iivm",
 	"version": 1.0,
 	"command": {
+		"git": "sh scripts/git.sh",
 		"test": "sh scripts/test.sh",
 		"setup": "sh scripts/setup.sh",
 		"build": "sh scripts/build.sh",
